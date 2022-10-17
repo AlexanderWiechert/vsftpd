@@ -1,0 +1,4 @@
+local_root=/opt/ftp/shared/
+dirlist_enable=YES
+download_enable=YES
+write_enable=YES
