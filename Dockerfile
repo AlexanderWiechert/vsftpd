@@ -11,6 +11,7 @@ ENV USERS="alex|PASSWORD1|/opt/ftp/shared/|1000 max|PASSWORD2|/opt/ftp/shared|10
 RUN \
   yum clean all && \
   yum install -y vsftpd ncurses && \
+  yum update && \
   yum clean all
 
 COPY container-files /
