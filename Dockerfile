@@ -1,4 +1,4 @@
-FROM centos:centos8
+FROM centos:centos9
 
 ENV LOG_STDOUT=true
 ENV ANONYMOUS_ACCESS=false
