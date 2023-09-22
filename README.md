@@ -100,3 +100,11 @@ Sometimes you might just want to review how things are deployed inside a running
 ```
 docker exec -ti vsftpd /bin/bash
 ```
+
+# Alexander Wiechert // Elastic2ls
+
+[Website](https://www.elastic2ls.com/)
+
+[Contact](info@elastic2ls.com)
+
+[License](https://github.com/AlexanderWiechert/.github/blob/main/LICENSE)
